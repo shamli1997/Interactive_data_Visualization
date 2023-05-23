@@ -1,0 +1,522 @@
+﻿Date,Building,Stream,Substream,Volume,Weight,Notes
+5/15/18,Facilities,Recycling,Paper,1,15.8,
+5/15/18,Facilities,Recycling,Cardboard,1,5.5,
+5/15/18,Facilities,Recycling,Cardboard,1,8.6,
+5/15/18,Facilities,Recycling,Paper,0.66,6.5,
+5/15/18,Facilities,Landfill in Recycling,Other Landfill,0.1,1.2,coffee cups
+5/15/18,Facilities,Recycling,Metal,0.25,5.2,keys
+5/15/18,Facilities,Recycling,Glass,0.15,11.7,
+5/15/18,Facilities,Recycling,Plastic 1-7,1.25,13.6,
+5/15/18,Facilities,Recycling,Plastic Film,1,4.1,
+5/15/18,Facilities,Recycling,Cardboard,1,2.3,
+5/15/18,Facilities,Landfill in Recycling,Other Landfill,0.5,4.8,"SCU coffee cups, markers, chip bags, mailing packages"
+5/15/18,Facilities,Landfill in Recycling,Reusables,0.1,2,
+5/15/18,Facilities,Landfill in Recycling,Styrofoam,0.05,0.6,
+5/15/18,Facilities,Compost in Recycling,Paper Towels,0.33,1.4,
+5/15/18,Facilities,Compost in Recycling,Compostable Food Containers,0.33,2.8,"paper towels, napkins, sandwich wrappers, food containers"
+5/15/18,Facilities,Compost in Recycling,Misc. Meal Waste,0.1,1.6,
+5/15/18,Facilities,Compost,Paper Towels,0.75,11.2,
+5/15/18,Facilities,Landfill in Compost,Other Landfill,0.05,0.9,coffee cups
+5/15/18,Facilities,Compost,Compostable Food Containers,0.75,3.2,
+5/15/18,Facilities,Compost,Misc. Meal Waste,0.25,22.2,
+5/15/18,Facilities,Recycling in Compost,Paper,0.05,0.1,
+5/15/18,Facilities,Recycling in Compost,Plastic 1-7,0.12,2.8,
+5/15/18,Facilities,Recycling in Compost,Plastic Film,0.12,0.2,
+5/15/18,Facilities,Landfill in Compost,Other Landfill,0.06,1.7,"chip wrappers, keurig cups"
+5/15/18,Facilities,Recycling in Compost,Metal,0.05,0.5,
+2/9/18,Swig,Compost in Landfill,Compostable Food Containers,0.75,6.2,"napkins, tissues, compostable containers"
+2/9/18,Swig,Recycling in Landfill,Plastic 1-7,1,7.4,"red solo cups, big gulps, plastic bottles"
+2/9/18,Swig,Recycling in Landfill,Paper,1,7.9,"paperboard, paper, receipts"
+2/9/18,Swig,Compost in Landfill,Compostable Food Containers,1,5.2,pizza boxes
+2/9/18,Swig,Recycling in Landfill,Plastic 1-7,1,7.3,"water bottles, drink bottles, benson to-go cups"
+2/9/18,Swig,Compost in Landfill,Compostable Food Containers,1,6.4,"to go containers, paper wrappers"
+2/9/18,Swig,Recycling in Landfill,Paper,1,6,"grocery bags, cardboard bozes"
+2/9/18,Swig,Compost in Landfill,Compostable Food Containers,0.5,2.7,"to go containers, paper bags, napkins"
+2/9/18,Swig,Recycling in Landfill,Aseptic Containers,0.05,1,milk carton
+2/9/18,Swig,Compost in Landfill,Misc. Meal Waste,0.33,33.2,whole bag of oranges
+2/9/18,Swig,Compost in Landfill,Paper Towels,0.75,5.9,
+2/9/18,Swig,Recycling in Landfill,Paper,0.05,1.1,paper bags
+2/9/18,Swig,Reusables in Landfill,Reusables,0.25,2.7,"bags, bubble wrap, clothes"
+2/9/18,Swig,Landfill,Styrofoam,0.25,1.5,packaging
+2/9/18,Swig,Landfill,Other Landfill,1,9.8,"food wrappers, makeup remover pads, snack bags"
+2/9/18,Swig,Recycling in Landfill,Metal,0.25,3.8,"energy drinks, tea"
+2/9/18,Swig,Recycling in Landfill,Cardboard,1,6.4,"mailboxes, cellar boxes (Bulk drinks)"
+2/9/18,Swig,Landfill,Other Landfill,0.13,1,coffee cups
+2/9/18,Swig,Recycling in Landfill,Glass,0.25,15.6,"yerba mate, alcohol bottles"
+2/9/18,Swig,Recycling in Landfill,Plastic 1-7,0.75,3.8,"water bottles, utensils, plastic containers"
+2/9/18,Swig,Recycling in Landfill,Terracycle,0.05,0.05,
+2/9/18,Swig,Recycling in Landfill,Plastic 1-7,1,7.8,"trash bags, shopping bags, clear wrappers"
+2/9/18,Swig,Recycling in Landfill,E-/Universal Waste,0.05,0.4,2 batteries
+1/26/18,Vari Hall and Lucas Hall,Recycling in Landfill,Plastic 1-7,1,8.7,"water bottles, utensils"
+1/26/18,Vari Hall and Lucas Hall,Compost in Landfill,Compostable Food Containers,1,10.2,"take out containers, paper bags, napkins"
+1/26/18,Vari Hall and Lucas Hall,Compost in Landfill,Paper Towels,1,16,
+1/26/18,Vari Hall and Lucas Hall,Recycling in Landfill,Paper,1,19.2,"paper, paperboard, paper food boxes"
+1/26/18,Vari Hall and Lucas Hall,Compost in Landfill,Misc. Meal Waste,0.33,33.5,food
+1/26/18,Vari Hall and Lucas Hall,Landfill,Other Landfill,1,8.8,
+1/26/18,Vari Hall and Lucas Hall,Compost in Landfill,Paper Towels,1,11.7,
+1/26/18,Vari Hall and Lucas Hall,Landfill,Other Landfill,0.75,7.5,
+1/26/18,Vari Hall and Lucas Hall,Reusables in Landfill,Reusables,0.1,5.4,
+1/26/18,Vari Hall and Lucas Hall,Recycling in Landfill,Terracycle,0.33,0.9,"chip bags, energy bars"
+1/26/18,Vari Hall and Lucas Hall,Compost in Landfill,Compostable Food Containers,0.75,10.5,"coffee cup sleeves, benson containers, food bags"
+1/26/18,Vari Hall and Lucas Hall,Recycling in Landfill,Plastic Film,1,19.1,garbage bags
+1/26/18,Vari Hall and Lucas Hall,Recycling in Landfill,Paperboard Rolls,0.25,2.1,
+1/26/18,Vari Hall and Lucas Hall,Recycling in Landfill,Terracycle,0.1,1.2,"tetrapack, chewy bars"
+1/26/18,Vari Hall and Lucas Hall,Landfill,Styrofoam,0.1,0.1,styrofoam plates
+1/26/18,Vari Hall and Lucas Hall,Recycling in Landfill,Plastic 1-7,1,10.3,"utensils, beverage and food containers, coffee lids"
+1/26/18,Vari Hall and Lucas Hall,Compost in Landfill,Misc. Meal Waste,0.25,16.3,food
+1/26/18,Vari Hall and Lucas Hall,Compost in Landfill,Paper Towels,0.25,3.9,
+1/26/18,Vari Hall and Lucas Hall,Recycling in Landfill,Glass,0.1,2.1,3 glass beverage containers
+1/26/18,Vari Hall and Lucas Hall,Recycling in Landfill,E-/Universal Waste,0.1,0.3,5 batteries
+1/26/18,Vari Hall and Lucas Hall,Recycling in Landfill,Paper,1,8.1,"office paper, receipts, paper ream packaging"
+1/26/18,Vari Hall and Lucas Hall,Recycling in Landfill,Metal,0.25,2.1,"cans, foil"
+1/26/18,Vari Hall and Lucas Hall,Landfill,Other Landfill,0.25,4.9,
+10/4/17,Malley,Landfill,Other Landfill,0.5,6.3,"soiled bags, gloves"
+10/4/17,Malley,Landfill,Other Landfill,0,0.01,Only coffee cups
+10/4/17,Malley,Compost in Landfill,Misc. Meal Waste,0.1,2.9,bagel chips
+10/4/17,Malley,Recycling in Landfill,Paper,0.1,0.1,reciepts
+10/4/17,Malley,Recycling in Landfill,Paperboard Rolls,0.1,1.6,toilet paper rolls
+10/4/17,Malley,Recycling in Landfill,Plastic Film,0.5,1.8,Liners
+10/4/17,Malley,Recycling in Landfill,Terracycle,0.1,1,energy bar wraapers
+10/4/17,Malley,Reusables in Landfill,Reusables,0.33,6.6,towels
+10/4/17,Malley,Recycling in Landfill,Metal,0,0.01,tin foil
+10/4/17,Malley,Compost in Landfill,Compostable Food Containers,0.25,3.5,coffee sleeves
+10/4/17,Malley,Recycling in Landfill,Plastic 1-7,0.25,1.5,
+11/14/16,Malley,Compost in Landfill,Misc. Meal Waste,0.1,2.8,"fried chicken, banana peels, sandwich"
+11/14/16,Malley,Compost in Landfill,Paper Towels,0.33,2.9,
+11/14/16,Malley,Landfill,Other Landfill,0.75,5.6,"gloves, chip bags, styrofoam, feminime products"
+11/14/16,Malley,Compost in Landfill,Compostable Food Containers,0.1,1.3,napkins
+11/14/16,Malley,Reusables in Landfill,Reusables,0.1,3,clothing
+11/14/16,Malley,Recycling in Landfill,Plastic 1-7,0.1,0.9,"utensils, coffee lids, ping pong balls"
+11/14/16,Malley,Recycling in Landfill,Paper,0.1,0.5,"paper, paperboard"
+11/14/16,Malley,Recycling in Landfill,Metal,0.1,0.5,foil
+11/14/16,Malley,Recycling in Landfill,Terracycle,0.1,0,"energy bar, wrappers"
+11/14/16,Malley,Recycling in Landfill,Paperboard Rolls,0.1,0.2,toilet paper rolls
+11/14/16,Malley,Recycling in Landfill,Aseptic Containers,0.1,1.1,
+11/14/16,Malley,Recycling in Landfill,E-/Universal Waste,0.1,0.6,cord
+11/14/16,Malley,Recycling in Landfill,Plastic Film,0.5,2.1,liners
+11/14/16,Malley,Recycling in Landfill,Const/Demo Waste,0.05,0.05,PVC pipe
+11/14/16,Malley,Recycling,Plastic 1-7,1,4.9,"water bottles, shampoo bottles, cold drink cups"
+11/14/16,Malley,Recycling,Plastic 1-7,1,8,water bottles
+11/14/16,Malley,Recycling,Metal,0.33,0.8,cans
+11/14/16,Malley,Compost in Recycling,Compostable Food Containers,0.25,1.5,"smoothie container, muffin wrapper, napkin"
+11/14/16,Malley,Compost in Recycling,Paper Towels,0.33,2.4,
+11/14/16,Malley,Landfill in Recycling,Other Landfill,0.33,3,"candy wrappers, gloves, powerade cups"
+11/14/16,Malley,Recycling,Plastic Film,0.75,4,"liners, plastic bags"
+11/14/16,Malley,Recycling,Paperboard Rolls,0.25,0.2,badminton birdie containers
+11/14/16,Malley,Recycling,Aseptic Containers,0.1,1.3,
+11/14/16,Malley,Recycling,Paper,0.5,6.5,office paper
+11/14/16,Malley,Recycling,Terracycle,0.1,0.3,energy bar wrapper
+11/14/16,Malley,Reusables in Recycling,Reusables,0.1,0.7,"smoothie container, stickers"
+11/14/16,Malley,Recycling,Cardboard,1,12.1,flattened boxes
+11/14/16,Malley,Compost in Recycling,Misc. Meal Waste,0.05,0.8,banana peel
+11/14/16,Malley,Compost,Paper Towels,1,13.2,
+11/14/16,Malley,Compost,Paper Towels,1,17.7,
+11/14/16,Malley,Compost,Paper Towels,1,13.5,
+11/14/16,Malley,Recycling in Compost,Paper,0.1,0.4,paper bags
+11/14/16,Malley,Compost,Misc. Meal Waste,0.1,8.3,"banana peel, chips, apple core"
+11/14/16,Malley,Compost,Compostable Food Containers,1,9.1,"food plates, clam shells"
+11/14/16,Malley,Landfill in Compost,Other Landfill,0.33,1.8,"plates, chip bag, powerade cups"
+11/14/16,Malley,Reusables in Compost,Reusables,,0.4,"socks, rubber bands"
+11/14/16,Malley,Recycling in Compost,Plastic 1-7,0.1,0.4,"water bottles, coffee lids"
+11/14/16,Malley,Recycling in Compost,Terracycle,0.05,0.7,wrappers
+11/14/16,Malley,Recycling in Compost,Plastic Film,0.1,0.7,"ziploc, togo"
+11/14/16,Malley,Recycling in Compost,Metal,0.1,0.5,foil
+11/14/16,Malley,Recycling in Compost,Paperboard Rolls,0.05,0.05,2 pt rolls
+5/15/18,Facilities,Recycling in Landfill,Plastic Film,0.75,3.6,food containers
+5/15/18,Facilities,Recycling in Landfill,Plastic 1-7,1.25,9.8,starbucks cups
+5/15/18,Facilities,Recycling in Landfill,Plastic Film,0.75,2.3,
+5/15/18,Facilities,Recycling in Landfill,Paper,0.75,8.7,"sheets of paper, paper bags"
+5/15/18,Facilities,Recycling in Landfill,Glass,0.1,5.6,
+5/15/18,Facilities,Recycling in Landfill,E-/Universal Waste,0.1,1.9,
+5/15/18,Facilities,Recycling in Landfill,Cardboard,0.5,1.9,cardboard boxes
+5/15/18,Facilities,Recycling in Landfill,Metal,0.1,6.8,
+5/15/18,Facilities,Landfill,Other Landfill,1,15.2,
+5/15/18,Facilities,Recycling in Landfill,Paperboard Rolls,0.05,0.1,
+5/15/18,Facilities,Recycling in Landfill,Const/Demo Waste,0.25,10.9,
+5/15/18,Facilities,Landfill,Styrofoam,0.1,1.3,
+5/15/18,Facilities,Reusables in Landfill,Reusables,0.5,,"boots, gloves, pens, jumper cables"
+5/15/18,Facilities,Landfill,Other Landfill,0.33,2.3,coffee cups
+5/15/18,Facilities,Compost in Landfill,Paper Towels,0.8,8.7,
+5/15/18,Facilities,Compost in Landfill,Compostable Food Containers,1,12.4,"to go boxes, flowers, clear cups"
+5/15/18,Facilities,Compost in Landfill,Misc. Meal Waste,0.25,16.6,
+3/13/17,University Villas,Recycling in Landfill,Plastic 1-7,1,6.5,"bottles, fruit containers, to go cups, lots of packaged foods"
+3/13/17,University Villas,Recycling in Landfill,Paper,1,6.2,"store bags ,frozen food boxes,office papers, packaged foods"
+3/13/17,University Villas,Landfill,Other Landfill,0.75,6.3,"ice cream container, food packaging,cleaning wipes, easy disposable"
+3/13/17,University Villas,Recycling in Landfill,Plastic Film,1,5.5,"trash bags,food wrapping, bread bags"
+3/13/17,University Villas,Compost in Landfill,Misc. Meal Waste,0.33,43.2,"moldy food, Lots of waste"
+3/13/17,University Villas,Recycling in Landfill,Plastic 1-7,0.75,4.5,"food containers, solo cups"
+3/13/17,University Villas,Recycling in Landfill,Paper,0.67,3.9,"office paper, store bags"
+3/13/17,University Villas,Recycling in Landfill,Plastic 1-7,1,6.2,"produce packaging, food containers"
+3/13/17,University Villas,Compost in Landfill,Paper Towels,0.9,11.4,
+3/13/17,University Villas,Compost in Landfill,Compostable Food Containers,1,11.9,"plates, food containers, q-tips"
+3/13/17,University Villas,Recycling in Landfill,Glass,0.1,8.3,bottles
+3/13/17,University Villas,Recycling in Landfill,Cardboard,0.75,3.1,corrugated
+3/13/17,University Villas,Recycling in Landfill,Plastic Film,0.67,2.7,bags
+3/13/17,University Villas,Recycling in Landfill,Metal,0.33,2.8,"foil, cans"
+3/13/17,University Villas,Recycling in Landfill,Terracycle,0.1,0.5,wrappers
+3/13/17,University Villas,Recycling in Landfill,E-/Universal Waste,0.1,0.1,cords
+3/13/17,University Villas,Recycling in Landfill,Aseptic Containers,0.1,0.1,shampoo
+3/13/17,University Villas,Reusables in Landfill,Reusables,0.1,10.2,"socks, laces, icepack"
+3/13/17,University Villas,Compost in Landfill,Compostable Food Containers,0.5,2,"plates, egg cartons"
+3/13/17,University Villas,Compost in Landfill,Paper Towels,0.1,0.7,napkins
+3/13/17,University Villas,Landfill,Other Landfill,0.75,3.2,"junkfood, packaging, wrappers"
+3/13/17,University Villas,Compost in Landfill,Misc. Meal Waste,0.33,30.7,
+3/13/17,University Villas,Landfill,Other Landfill,0.1,0.8,
+3/13/17,University Villas,Recycling in Landfill,Paperboard Rolls,0.1,0.8,
+5/4/16,University Villas,Compost in Landfill,Compostable Food Containers,1,10.1,"clam shell containers, pizza boxes, soiled paper"
+5/4/16,University Villas,Compost in Landfill,Misc. Meal Waste,0.5,29.5,"bread ends, salami, mushrooms"
+5/4/16,University Villas,Recycling in Landfill,Plastic 1-7,1,7.7,"external clamshells, beverage containers, chicken containers"
+5/4/16,University Villas,Recycling in Landfill,Paperboard Rolls,0.13,0.8,
+5/4/16,University Villas,Recycling in Landfill,Paper,0.75,5.3,"trader joes bags, food boxes, coupons"
+5/4/16,University Villas,Recycling in Landfill,Cardboard,1,5,"klenex boxes, strawberry flat"
+5/4/16,University Villas,Compost in Landfill,Compostable Food Containers,1,5.9,"food wrapping, soiler paper, cups"
+5/4/16,University Villas,Recycling in Landfill,Plastic Film,1,6.2,"ziplocs, plastic bags"
+5/4/16,University Villas,Landfill,Other Landfill,1,9,"food packaging, styrofoam, coffee cups"
+5/4/16,University Villas,Recycling in Landfill,Aseptic Containers,0.06,1.5,milk cartons
+5/4/16,University Villas,Recycling in Landfill,Metal,0.33,3.6,"cans, foil, monster drinks"
+5/4/16,University Villas,Recycling in Landfill,Glass,0.33,19.8,"alcohol bottles, juice, soda cans"
+5/4/16,University Villas,Recycling in Landfill,E-/Universal Waste,0.03,0.1,"batteries, phone charger"
+5/4/16,University Villas,Recycling in Landfill,Terracycle,0.04,1.7,"bar wrappers, shampoo, deoderant, makeup"
+5/4/16,University Villas,Reusables in Landfill,Reusables,0.03,0.1,tupperware
+5/4/16,University Villas,Recycling in Landfill,Plastic 1-7,1,6.7,"cookie trays, powerade bottles, water bottles"
+5/4/16,University Villas,Compost in Landfill,Misc. Meal Waste,0.33,23.8,
+5/4/16,University Villas,Compost in Landfill,Paper Towels,0.25,1.1,
+2/11/16,Graham,Recycling in Landfill,Cardboard,1,7.4,"capri sun box, misc boxes"
+2/11/16,Graham,Compost in Landfill,Compostable Food Containers,1,7.3,"ben and jerrys container, clamshells, soup containers"
+2/11/16,Graham,Recycling in Landfill,Plastic 1-7,1,6.9,"gatorade, solo cups, water bottles, milk jugs"
+2/11/16,Graham,Compost in Landfill,Paper Towels,1,6.9,
+2/11/16,Graham,Recycling in Landfill,Paper,1,5.1,"to-go food bags, instructions"
+2/11/16,Graham,Compost in Landfill,Paper Towels,0.25,2.6,
+2/11/16,Graham,Compost in Landfill,Compostable Food Containers,0.75,5.7,"coke cups, q-tips, clear cups, pizza boxes"
+2/11/16,Graham,Recycling in Landfill,Paper,0.13,1.6,"recipts, brown bags"
+2/11/16,Graham,Recycling in Landfill,Cardboard,0.33,1,boxes
+2/11/16,Graham,Landfill,Other Landfill,0.5,5.4,Chip and candy wrappers
+2/11/16,Graham,Recycling in Landfill,Glass,0.06,7.9,"snapple, alcohol bottles"
+2/11/16,Graham,Recycling in Landfill,Metal,0.25,2.1,"soda cans, aluminum foil, chipotle cover"
+2/11/16,Graham,Recycling in Landfill,Plastic Film,1,6.2,"plastic bags, wrappers"
+2/11/16,Graham,Recycling in Landfill,Plastic 1-7,0.6,4,"soda bottles, other drink containers, yogurt containers"
+2/11/16,Graham,Reusables in Landfill,Reusables,0.75,7.9,"pillow, socks, jeans, benson cups"
+2/11/16,Graham,Recycling in Landfill,Paperboard Rolls,0.01,0.01,
+2/11/16,Graham,Recycling in Landfill,Terracycle,0.25,8,"wrappers, beauty products"
+2/11/16,Graham,Compost in Landfill,Misc. Meal Waste,0.25,24.2,
+5/5/15,Graham,Compost in Landfill,Paper Towels,1,6.1,bags of only paper towels
+5/5/15,Graham,Recycling in Landfill,Plastic 1-7,1,6.9,"Odwalla, some bottled water"
+5/5/15,Graham,Compost in Landfill,Compostable Food Containers,1,5,"to-go clamshells, plates"
+5/5/15,Graham,Landfill,Other Landfill,2,16.8,"ben&jerrys, outside sourced, chip bags, lots of feminine hygene products"
+5/5/15,Graham,Recycling in Landfill,Paper,1,7,"cereal boxes, paperboard boxes"
+5/5/15,Graham,Recycling in Landfill,Plastic Film,1,2.7,"liners, plastic wrappers"
+5/5/15,Graham,Compost in Landfill,Misc. Meal Waste,0.2,14.9,
+5/5/15,Graham,Recycling in Landfill,Aseptic Containers,0.1,0.8,
+5/5/15,Graham,Compost in Landfill,Paper Towels,0.67,4.7,
+5/5/15,Graham,Recycling in Landfill,Terracycle,0.25,1.8,"shampoo&cond. Containers, deoderants, bar wrappers"
+5/5/15,Graham,Reusables in Landfill,Reusables,0.33,8.1,clothing
+5/5/15,Graham,Recycling in Landfill,Paper,1,6.3,"recipts, paper bags"
+5/5/15,Graham,Recycling in Landfill,Plastic Film,0.75,2.6,"plastic bags, wrappers"
+5/5/15,Graham,Recycling in Landfill,Plastic 1-7,1,8,"bottles, soda bottles"
+5/5/15,Graham,Recycling in Landfill,Metal,0.13,0.9,"aluminum cans, metal foil, chipotle tin"
+5/5/15,Graham,Recycling in Landfill,Cardboard,0.75,3.9,mailing boxes
+5/5/15,Graham,Compost in Landfill,Compostable Food Containers,1,5.3,"to-go besonware, sandwhich wrappers"
+5/5/15,Graham,Recycling in Landfill,Glass,0.1,4.2,"bottles, jam jar"
+5/5/15,Graham,Landfill,Other Landfill,0.67,5.9,"small pieces, facial wipes, makeup remover swabs"
+5/5/15,Graham,Compost in Landfill,Misc. Meal Waste,0.33,10.7,
+5/5/15,Graham,Recycling in Landfill,Paperboard Rolls,0.1,0.6,
+5/5/15,Graham,Recycling in Landfill,E-/Universal Waste,0.01,0.01,bateries
+5/5/15,Graham,Landfill,Styrofoam,0.01,0.01,cup-a-noodle
+10/4/17,Benson Center,Landfill,Other Landfill,0.5,6.3,"soiled bags, gloves"
+10/4/17,Benson Center,Landfill,Other Landfill,0.01,0.01,"Only coffee cups, 4 cups"
+10/4/17,Benson Center,Compost in Landfill,Misc. Meal Waste,0.1,2.9,bagel chips
+10/4/17,Benson Center,Recycling in Landfill,Paper,0.1,0.1,receipts
+10/4/17,Benson Center,Recycling in Landfill,Paperboard Rolls,0.1,1.6,toilet paper rolls
+10/4/17,Benson Center,Recycling in Landfill,Plastic Film,0.5,1.8,Liners
+10/4/17,Benson Center,Recycling in Landfill,Terracycle,0.1,1,energy bar wraapers
+10/4/17,Benson Center,Reusables in Landfill,Reusables,0.33,6.6,towels
+10/4/17,Benson Center,Recycling in Landfill,Metal,0.01,0.01,tin foil
+10/4/17,Benson Center,Compost in Landfill,Compostable Food Containers,0.25,3.5,"coffee sleeves, to go containers"
+10/4/17,Benson Center,Recycling in Landfill,Plastic 1-7,0.25,1.5,
+10/4/17,Benson Center,Recycling,Plastic 1-7,1,6.9,"water bottles, core power, gatorade bottles"
+10/4/17,Benson Center,Recycling,glass,0.25,6.1,broken glass
+10/4/17,Benson Center,Recycling,Plastic 1-7,1,8.6,"water bottles, gatorade, protein drinks"
+10/4/17,Benson Center,Recycling,cardboard,1.5,22.5,flattened boxes
+10/4/17,Benson Center,Recycling,Plastic 1-7,1,6.9,"water bottles, gatorade, protein drinks"
+10/4/17,Benson Center,Recycling,cardboard,2,29.1,boxes
+10/4/17,Benson Center,Recycling,Plastic 1-7,1,8.7,"water bottles, gatorade, protein drinks"
+10/4/17,Benson Center,Recycling,metal,0.5,4.4,"lecroix, soda cans"
+10/4/17,Benson Center,Recycling,aseptic containers,0.13,0.8,muscle milk
+10/4/17,Benson Center,Landfill in Recycling,Other Landfill,0.33,4,snack wrappers
+10/4/17,Benson Center,Landfill in Recycling,Other Landfill,0.01,0.01,"coffee cups, 4 cups"
+10/4/17,Benson Center,Compost in Recycling,paper towels,0.5,3.2,
+10/4/17,Benson Center,Compost in Recycling,Misc. Meal Waste,0.01,1.8,
+10/4/17,Benson Center,Compost in Recycling,Compostable Food Containers,0.5,1,plates
+10/4/17,Benson Center,Recycling,Plastic 1-7,1,3,"waterbottles, laundry basket"
+10/4/17,Benson Center,Reusables in Recycling,reusables,0.5,8.7,"swimwear, sports equipment"
+10/4/17,Benson Center,Recycling,paper,1,25.9,
+10/4/17,Benson Center,Recycling,terracycle,0.01,1.3,"chip bags, granola bars"
+10/4/17,Benson Center,Recycling,cardboard,1,9.1,boxes
+10/4/17,Benson Center,Recycling,Plastic Film,1.25,11.9,recycling bags
+10/4/17,Benson Center,Recycling,glass,0.2,16.6,snapple bottles
+10/4/17,Benson Center,Landfill in Compost,Other Landfill,0.01,0.01,
+10/4/17,Benson Center,Reusables in Compost,reusables,0.01,0.8,"sock, hair tie "
+10/4/17,Benson Center,Compost,paper towels,0.75,8.8,
+10/4/17,Benson Center,Recycling in Compost,Plastic 1-7,0.01,0.9,bottles
+10/4/17,Benson Center,Compost,Misc. Meal Waste,0.01,1.6,
+10/4/17,Benson Center,Recycling in Compost,Plastic Film,0.01,0.5,
+10/4/17,Benson Center,Compost,Compostable Food Containers,0.33,0.9,compost liners
+10/4/17,Benson Center,Recycling in Compost,E-/Universal Waste,0.01,0.01,headphones
+10/4/17,Benson Center,Recycling in Compost,paper,0.01,0.01,1 sheet of paper
+4/27/17,Benson Center,Compost in Landfill,Compostable Food Containers,1,12.5,"Bacon paper, coke cups, plates"
+4/27/17,Benson Center,Recycling in Landfill,paper,1,5.1,paperboard (food boxes)
+4/27/17,Benson Center,Recycling in Landfill,Plastic Film,1,16.7,bulk food bags
+4/27/17,Benson Center,Recycling in Landfill,Plastic 1-7,0.75,5,bulk food containers
+4/27/17,Benson Center,Compost in Landfill,Misc. Meal Waste,0.33,29.1,"food scraps,tortilla chips"
+4/27/17,Benson Center,Compost in Landfill,Compostable Food Containers,1,7.6,"sandwich paper, plates, napkins"
+4/27/17,Benson Center,Recycling in Landfill,Plastic 1-7,1,2.7,"milk cartons, bulk containers"
+4/27/17,Benson Center,Compost in Landfill,Misc. Meal Waste,0.25,23.6,"coffee, food scraps"
+4/27/17,Benson Center,Recycling in Landfill,cardboard,1.5,9,produce (waxy) boxes
+4/27/17,Benson Center,Landfill,Other Landfill,1,16.4,gloves
+4/27/17,Benson Center,Compost in Landfill,Misc. Meal Waste,0.5,42.1,
+4/27/17,Benson Center,Compost in Landfill,Compostable Food Containers,1,15.1,"plates, coke cups, PLA boxes (4 lids )"
+4/27/17,Benson Center,Recycling in Landfill,Plastic Film,1,17.7,"bread bags, bulk bags"
+4/27/17,Benson Center,Compost in Landfill,Compostable Food Containers,0.5,5.2,see above
+4/27/17,Benson Center,Compost in Landfill,paper towels,0.75,9.4,
+4/27/17,Benson Center,Recycling in Landfill,terracycle,0.01,0.01,1 wrapper
+4/27/17,Benson Center,Landfill,Other Landfill,0.5,5.2,food packaging
+4/27/17,Benson Center,Compost in Landfill,Misc. Meal Waste,0.5,27,bag full of lettuce (from landfill)
+4/27/17,Benson Center,Recycling in Landfill,aseptic containers,0.33,1.5,"almond milk, (mission bakery)"
+4/27/17,Benson Center,Reusables in Landfill,reusables,1,5.6,"limecrate, sugar/tea packet, hangers"
+4/27/17,Benson Center,Recycling in Landfill,paper,1,9.4,"receipts, glove box, paperboard"
+4/27/17,Benson Center,Recycling in Landfill,Plastic 1-7,0.33,2.8,"utensils, bulk food containers"
+4/27/17,Benson Center,Recycling in Landfill,glass,0.1,3.4,
+4/27/17,Benson Center,Recycling in Landfill,cardboard,0.5,0.8,
+4/27/17,Benson Center,Recycling in Landfill,Plastic Film,0.5,4,chicken bags
+4/27/17,Benson Center,Recycling in Landfill,metal,0.75,5.3,"mini pie tins, bulk cans, pam"
+4/27/17,Benson Center,Recycling in Landfill,E-/Universal Waste,0.25,1.4,3 bulbs
+4/27/16,Benson Center,Reusables in Landfill,reusables,0.13,2,"hangers, Benson fork, apron, syran wrap roll"
+4/27/16,Benson Center,Recycling in Landfill,metal,0.33,2.3,"soda cans, evets trays, green chile cans"
+4/27/16,Benson Center,Recycling in Landfill,Plastic 1-7,0.5,3.1,"orange force bottle, syrup containers"
+4/27/16,Benson Center,Landfill,Other Landfill,0.75,6.4,"gloves, napking packaging"
+4/27/16,Benson Center,Compost in Landfill,paper towels,0.25,2.4,
+4/27/16,Benson Center,Compost in Landfill,Compostable Food Containers,1,13.2,"clamshells, clear cups, salad containers"
+4/27/16,Benson Center,Compost in Landfill,Misc. Meal Waste,0.33,41.8,
+4/27/16,Benson Center,Recycling in Landfill,paper,0.33,1.2,"recipts, glove boxes"
+4/27/16,Benson Center,Recycling in Landfill,aseptic containers,0.33,0.8,liquid egg containers
+4/27/16,Benson Center,Recycling in Landfill,cardboard,0.5,1.1,drink cases
+4/27/16,Benson Center,Recycling in Landfill,glass,0.03,0.1,soy sauce jars
+4/27/16,Benson Center,Recycling in Landfill,Plastic Film,1,8.5,bags
+2/9/16,Benson Center,Recycling in Landfill,Plastic Film,1,8.6,Seran Wrap
+2/9/16,Benson Center,Recycling in Landfill,cardboard,1.25,6.1,"Egg Cartons, boxes"
+2/9/16,Benson Center,Recycling in Landfill,paper,1,8.6,"half&half boxes, swiss miss boxes, milk cartons"
+2/9/16,Benson Center,Compost in Landfill,Misc. Meal Waste,0.25,33.3,"egg shells, avocado, sandwhich toppongs, loaf of bread"
+2/9/16,Benson Center,Compost in Landfill,Compostable Food Containers,1,10.7,"salad to-go containers, clamshells, coke cups"
+2/9/16,Benson Center,Recycling in Landfill,Plastic Film,1,7.7,bread bags
+2/9/16,Benson Center,Recycling in Landfill,Plastic 1-7,1.25,13.2,"large containers, rice vinegal, canola oil"
+2/9/16,Benson Center,Recycling in Landfill,cardboard,1,7.4,"apple trays, boxes, egg cartons"
+2/9/16,Benson Center,Recycling in Landfill,Plastic 1-7,1,6.4,"Lime Away, plastic utensils, canola oil "
+2/9/16,Benson Center,Compost in Landfill,Misc. Meal Waste,0.33,44.8,
+2/9/16,Benson Center,Compost in Landfill,Compostable Food Containers,1,10.9,"clamshells, salad containers, coke cups, water glasses"
+2/9/16,Benson Center,Recycling in Landfill,paper,1,4.4,"milk cartons, receipts, liquid eggs"
+2/9/16,Benson Center,Recycling in Landfill,metal,0.75,8.6,"pinto beans, olive cans, aluminum foil"
+2/9/16,Benson Center,Recycling in Landfill,glass,0.25,5.8,"tobasco bottle, saucer, broken plate"
+2/9/16,Benson Center,Recycling in Landfill,Const/Demo Waste,0.17,1.1,sticks
+2/9/16,Benson Center,Reusables in Landfill,reusables,0.17,5.1,"forks, apron, clothes/rags, unused seran wrap roll "
+2/9/16,Benson Center,Recycling in Landfill,Plastic Film,0.75,11.1,
+2/9/16,Benson Center,Recycling in Landfill,terracycle,0.03,0.01,energy bar wrappers
+2/9/16,Benson Center,Landfill,Other Landfill,0.8,18.3,
+2/9/16,Benson Center,Recycling in Landfill,Plastic 1-7,0.04,1.2,"coffee cups, lids, utensils"
+2/9/16,Benson Center,Recycling in Landfill,paper towels,0.5,6.8,
+2/9/16,Benson Center,Recycling in Landfill,cardboard,0.75,5.2,"bakery containers, fruit holder, boxes "
+11/16/15,Benson Center,Recycling in Landfill,cardboard,1,5.9,"boxes, egg cartons"
+11/16/15,Benson Center,Compost in Landfill,Compostable Food Containers,1,9.9,flowers
+11/16/15,Benson Center,Compost,paper towels,0.33,3.3,paper towels
+11/16/15,Benson Center,Compost in Landfill,Misc. Meal Waste,0.33,33.1,"bread ends, potato peels, eggshells/bacon"
+11/16/15,Benson Center,Compost in Landfill,Compostable Food Containers,1,16.2,"coke cups, paper wrappers, clamshells and plates"
+11/16/15,Benson Center,Recycling in Landfill,terracycle,0.03,0.1,"granola bar wrappers, markers"
+11/16/15,Benson Center,Reusables in Landfill,reusables,0.06,0.1,"cloth rags, twist ties"
+11/16/15,Benson Center,Recycling in Landfill,Plastic 1-7,0.8,7.1,"black silverware, juice containers, mayo containers"
+11/16/15,Benson Center,Recycling in Landfill,paper,0.75,3.6,"oat containers, salt containers, red bull boxes"
+11/16/15,Benson Center,Recycling in Landfill,aseptic containers,0.8,3.8,"milk containers, liquid egg containers"
+11/16/15,Benson Center,Landfill,Other Landfill,0.14,0.2,*coffee cups were sorted separately
+11/16/15,Benson Center,Landfill,Other Landfill,0.75,12.9,
+11/16/15,Benson Center,Recycling in Landfill,metal,0.33,2.2,"tin foil, large cans (olives/manderines), soda cans"
+11/16/15,Benson Center,Recycling in Landfill,cardboard,0.33,3.1,boxes
+11/16/15,Benson Center,Recycling in Landfill,glass,0.03,0.4,bottles
+11/16/15,Benson Center,Recycling in Landfill,Plastic Film,1,11.8,"syran wrap,bags/food packaging"
+4/30/15,Benson Center,Compost in Landfill,Compostable Food Containers,1,9,"Clam shells,To-go cups, to go plates"
+4/30/15,Benson Center,Compost in Landfill,Misc. Meal Waste,0.33,43,student food waste
+4/30/15,Benson Center,Recycling in Landfill,Plastic Film,1,16.9,bread wrapers
+4/30/15,Benson Center,Compost in Landfill,Misc. Meal Waste,0.33,42.6,
+4/30/15,Benson Center,Compost in Landfill,Compostable Food Containers,1,13.8,
+4/30/15,Benson Center,Compost in Landfill,Misc. Meal Waste,0.5,48.9,
+4/30/15,Benson Center,Compost in Landfill,Misc. Meal Waste,0.25,23.5,
+4/30/15,Benson Center,Compost in Landfill,Misc. Meal Waste,0.33,19.4,
+4/30/15,Benson Center,Recycling in Landfill,Plastic Film,1,15.4,shrimp bag
+4/30/15,Benson Center,Compost in Landfill,Compostable Food Containers,1,13.7,
+4/30/15,Benson Center,Recycling in Landfill,metal,0.33,5,"clam juice cans, pan spray"
+4/30/15,Benson Center,Recycling in Landfill,Plastic 1-7,0.5,7,soap and syrup not empty
+4/30/15,Benson Center,Recycling in Landfill,terracycle,0.1,0.4,granola bar wrappers
+4/30/15,Benson Center,Recycling in Landfill,paper,1,11.9,recipts
+4/30/15,Benson Center,Landfill,styrofoam,0.1,0.5,
+4/30/15,Benson Center,Compost in Landfill,paper towels,0.5,7.8,
+4/30/15,Benson Center,Recycling in Landfill,glass,0.1,1.8,
+4/30/15,Benson Center,Landfill,Other Landfill,1,15.5,napkin packaging (has plastic liner)
+4/30/15,Benson Center,Recycling in Landfill,aseptic containers,0.5,1.7,co-co water
+4/30/15,Benson Center,Recycling in Landfill,cardboard,1,5,boxes
+4/30/15,Benson Center,Reusables in Landfill,reusables,0.1,2.5,"forks, twistties/rubberbands"
+9/16/16,Malley,Compost in Landfill,paper towels,1,13.3,
+9/16/16,Malley,Compost in Landfill,paper towels,1,18.2,
+9/16/16,Malley,Compost in Landfill,paper towels,1,13.6,
+9/16/16,Malley,Compost in Landfill,paper towels,1,11.5,
+9/16/16,Malley,Recycling in Landfill,Plastic Film,1,7.2,
+9/16/16,Malley,Compost in Landfill,paper towels,1,13.5,
+9/16/16,Malley,Recycling in Landfill,cardboard,0.33,9.1,
+9/16/16,Malley,Compost in Landfill,paper towels,0.75,11.4,
+9/16/16,Malley,Compost in Landfill,Misc. Meal Waste,0.13,7.2,
+9/16/16,Malley,Compost in Landfill,Compostable Food Containers,0.75,7.9,
+9/16/16,Malley,Reusables in Landfill,reusables,0.33,18.6,"shoes, goggles"
+9/16/16,Malley,Recycling in Landfill,paper,0.25,3.1,maxipad boxes
+9/16/16,Malley,Recycling in Landfill,Const/Demo Waste,0.05,0.4,wood
+9/16/16,Malley,Recycling in Landfill,Plastic Film,0.33,1.8,trash liners
+9/16/16,Malley,Landfill,Other Landfill,1,25.7,"food wrappers, vaccum bags, blue gloves"
+9/16/16,Malley,Recycling in Landfill,Plastic 1-7,1,8.7,"drink bottles, shampoo bottles"
+9/16/16,Malley,Recycling in Landfill,terracycle,0.1,1,energy bar wrappers
+9/16/16,Malley,Recycling in Landfill,metal,0.1,1.7,
+9/16/16,Malley,Recycling in Landfill,E-/Universal Waste,0.1,3.5,
+9/16/16,Malley,Recycling in Landfill,paperboard rolls,0.33,1.7,
+9/16/16,Malley,Recycling in Landfill,glass,0.1,2.9,glass bottle
+9/16/16,Malley,Landfill,Other Landfill,1.25,7.2,
+9/16/16,Malley,Recycling in Landfill,aseptic containers,0.1,1.4,coconut water
+9/16/16,Malley,Recycling,paper,1,36.5,Magazines
+9/16/16,Malley,Recycling,Plastic 1-7,1,7.9,"Water bottle, vitamin water"
+9/16/16,Malley,Recycling,cardboard,2,31.4,boxes
+9/16/16,Malley,Recycling,terracycle,0.2,1.5,lotion
+9/16/16,Malley,Reusables in Recycling,reusables,0.17,9.1,"hangers, flipflops"
+9/16/16,Malley,Compost in Recycling,Misc. Meal Waste,0.13,1.4,bread
+9/16/16,Malley,Compost in Recycling,paper towels,0.75,7.5,
+9/16/16,Malley,Compost in Recycling,Compostable Food Containers,0.75,4.3,to go containers
+9/16/16,Malley,Recycling,Plastic Film,1,7,bags
+9/16/16,Malley,Recycling,Plastic 1-7,0.75,5.1,"bottles, plastic trays "
+9/16/16,Malley,Recycling,glass,0.08,2.1,kombucha
+9/16/16,Malley,Landfill in Recycling,Other Landfill,0.33,11.7,"coffee cups, gloves"
+9/16/16,Malley,Recycling,paperboard rolls,0.04,0.1,
+9/16/16,Malley,Recycling,aseptic containers,0.04,1.2,
+9/16/16,Malley,Recycling,metal,0.33,4.1,"cans, tinfoil "
+9/16/16,Malley,Recycling,paper,0.5,14,
+9/1/15,Malley,Compost in Landfill,Misc. Meal Waste,0.1,3.3,"banana peels, whole apple, crackers"
+9/1/15,Malley,Compost in Landfill,paper towels,0.75,3.3,
+9/1/15,Malley,Compost in Landfill,Compostable Food Containers,0.67,3.8,"paper plates, to go containers/bags/packaging"
+9/1/15,Malley,Landfill,Other Landfill,0.8,9.7,"lint, chip/snack bags, to go cups"
+9/1/15,Malley,Recycling in Landfill,Plastic 1-7,0.5,4.4,"water botles, external to go cups/containers, plastic utensils"
+9/1/15,Malley,Recycling in Landfill,metal,0.13,0.5,aluminum foil
+9/1/15,Malley,Recycling in Landfill,paper,0.25,1.8,"magazines, paperboard, paper"
+9/1/15,Malley,Recycling in Landfill,aseptic containers,0.1,0.6,protein shakes
+9/1/15,Malley,Reusables in Landfill,reusables,0.1,4.8,"purell-unused, condiments, pencils"
+9/1/15,Malley,Recycling in Landfill,Plastic Film,0.5,3.3,"liners-clear, ziplocks, bar wrappers"
+9/1/15,Malley,Recycling in Landfill,cardboard,0.13,1,corrugated cardboard
+9/1/15,Malley,Recycling in Landfill,terracycle,0.1,1.1,power bar wrappers
+9/1/15,Malley,Recycling in Landfill,Const/Demo Waste,0.1,8.2,sand???
+9/1/15,Malley,Recycling in Landfill,E-/Universal Waste,0.1,2.5,wire
+9/1/15,Malley,Recycling,Plastic 1-7,1.1,11,"water bottles,plastic starbucks"
+9/1/15,Malley,Recycling,cardboard,1,2.3,
+9/1/15,Malley,Recycling,cardboard,1,10.1,
+9/1/15,Malley,Recycling,cardboard,1.1,13.9,
+9/1/15,Malley,Compost in Recycling,Misc. Meal Waste,0.1,1.4,banana peels
+9/1/15,Malley,Compost in Recycling,paper towels,0.67,3.7,
+9/1/15,Malley,Compost in Recycling,Compostable Food Containers,0.25,1.9,food wrappers
+9/1/15,Malley,Recycling,Plastic 1-7,1,9.5,"water bottles, starbucks, 80-100 oz of wasted water in bottles"
+9/1/15,Malley,Recycling,metal,0.33,1.6,"redbull cans, Arizona tea cans, chipotle container, aluminum foil"
+9/1/15,Malley,Landfill in Recycling,Other Landfill,0.33,2.5,"food packaging, to go cups, plastic gloves"
+9/1/15,Malley,Recycling,Plastic Film,1,11.5,"recycle bags, trash liners"
+9/1/15,Malley,Recycling,paper,0.75,28.4,"invoices, magazines"
+9/1/15,Malley,Reusables in Recycling,reusables,0.13,5.3,"cleaning bottles, lanyards"
+9/1/15,Malley,Recycling,paperboard rolls,0.1,2.3,3 paper towel rolls with paper still on them
+9/1/15,Malley,Recycling,terracycle,0.1,1.3,protein bars
+9/1/15,Malley,Recycling,glass,0.1,1.7,"lemonade bottle, iced coffee bottle "
+9/1/15,Malley,Recycling,aseptic containers,0.13,1.5,coconut water
+9/1/15,Malley,Compost,Misc. Meal Waste,0.1,1.8,coffee grounds
+9/1/15,Malley,Compost,paper towels,0.9,11.1,good!
+9/1/15,Malley,Compost,Compostable Food Containers,0.5,2.2,"compost liners, soiled food containers"
+9/1/15,Malley,Landfill in Compost,Other Landfill,0.1,0.4,plastic wrappers
+9/1/15,Malley,Recycling in Compost,paperboard rolls,0.1,0.7,2 paper towels rolls (empty)
+9/1/15,Malley,Recycling in Compost,Plastic 1-7,0.2,1.5,"yogurt conatiner, plastic to go, peanut butter jars"
+9/1/15,Malley,Recycling in Compost,Plastic Film,0.1,0.01,3 pieces
+9/1/15,Malley,Reusables in Compost,reusables,0.1,0.01,1 spoon
+9/1/15,Malley,Recycling in Compost,paper,0.1,0.5,4 pieces
+9/1/15,Malley,Recycling in Compost,terracycle,0.1,1.2,3 wrappers
+9/1/15,Malley,Recycling in Compost,aseptic containers,0.1,0.6,apple juice
+9/1/15,Malley,Recycling in Compost,glass,0.1,1.9,2 glass bottles
+9/1/15,Malley,Recycling in Compost,cardboard,0.1,0.8,1 piece of cardboard
+5/8/19,Learning Commons,Recycling in Landfill,Terracycle,,0.8,
+5/8/19,Learning Commons,Recycling in Landfill,Glass,,0.1,
+5/8/19,Learning Commons,Recycling in Landfill,Paper,,3.1,
+5/8/19,Learning Commons,Compost in Landfill,Compostable Food Containers,,3.1,
+5/8/19,Learning Commons,Compost in Landfill,Compostable Dining Waste (non-edible),,3.2,
+5/8/19,Learning Commons,Food Waste in Landfill,Food Waste (edible),,6.4,
+5/8/19,Learning Commons,Landfill,Non-SCU Coffee Cups,,0.5,
+5/8/19,Learning Commons,Compost in Landfill,Paper Towels,,3.5,
+5/8/19,Learning Commons,Compost in Landfill,SCU Coffee Cups,,4.9,
+5/8/19,Learning Commons,Landfill,Styrofoam,,0.1,
+5/8/19,Learning Commons,Recycling in Landfill,Aseptic Containers,,0.5,
+5/8/19,Learning Commons,Recycling in Landfill,Plastic 1-7,,2.7,
+5/8/19,Learning Commons,Recycling in Landfill,Cardboard,,0.8,
+5/8/19,Learning Commons,Recycling in Landfill,Plastic Film,,2.1,
+5/8/19,Learning Commons,Recycling in Landfill,Metal,,0.2,
+5/8/19,Learning Commons,Recycling in Landfill,E-/Universal Waste,,0.5,
+5/8/19,Learning Commons,Landfill,Other Landfill,,10.3,
+5/8/19,Learning Commons,Recycling,Plastic 1-7,,11.1,
+5/8/19,Learning Commons,Compost in Recycling,Paper Towels,,0.5,
+5/8/19,Learning Commons,Recycling,Const/Demo Waste,,4.2,
+5/8/19,Learning Commons,Recycling,Plastic 1-7,,1.9,
+5/8/19,Learning Commons,Recycling,Metal,,1.6,
+5/8/19,Learning Commons,Recycling,Compostable Food Containers,,4.4,
+5/8/19,Learning Commons,Recycling,Plastic Film,,1,
+5/8/19,Learning Commons,Recycling,Glass,,3.1,
+5/8/19,Learning Commons,Recycling,SCU Coffee Cups,,5.7,
+5/8/19,Learning Commons,Recycling,Non-SCU Coffee Cups,,0.9,
+5/8/19,Learning Commons,Recycling,Paper,,10.9,
+5/8/19,Learning Commons,Recycling,Cardboard,,3.3,
+5/8/19,Learning Commons,Landfill in Recycling,Other Landfill,,3.3,
+5/8/19,Learning Commons,Compost in Recycling,Compostable Dining Waste (non-edible),,0.6,
+5/8/19,Learning Commons,Food Waste in Recycling,Food Waste (edible),,1.7,
+5/8/19,Learning Commons,Recycling,Terracycle,,0.5,
+1/21/20,Vari Hall and Lucas Hall,Compost in Landfill,Food Waste (edible),0.3,50.2,Mix of food
+1/21/20,Vari Hall and Lucas Hall,Compost in Landfill,Misc. Meal Waste,0.25,14.8,"Peels, a plant"
+1/21/20,Vari Hall and Lucas Hall,Compost in Landfill,SCU Coffee Cups,0.75,5.4,
+1/21/20,Vari Hall and Lucas Hall,Compost in Landfill,Compostable Dining Waste (non-edible),1.5,21,"Plates, Benson containers"
+1/21/20,Vari Hall and Lucas Hall,Compost in Landfill,Paper Towels,1,14.6,
+1/21/20,Vari Hall and Lucas Hall,Recycling in Landfill,Aseptic Containers,0.1,0.6,Milk container
+1/21/20,Vari Hall and Lucas Hall,Recycling in Landfill,Terracycle,0.1,0.2,Energy bar wrappers
+1/21/20,Vari Hall and Lucas Hall,Recycling in Landfill,Const/Demo Waste,0.1,3.1,
+1/21/20,Vari Hall and Lucas Hall,Reusables in Landfill,Reusables,0.3,8.9,Resuable water bottles
+1/21/20,Vari Hall and Lucas Hall,Recycling in Landfill,Plastic 1-7,1,6.4,Food packaging
+1/21/20,Vari Hall and Lucas Hall,Recycling in Landfill,Cardboard,0.5,0.9,Food packaging
+1/21/20,Vari Hall and Lucas Hall,Recycling in Landfill,E-/Universal Waste,0.05,0.2,Batteries
+1/21/20,Vari Hall and Lucas Hall,Recycling in Landfill,Metal,0.5,1.4,"Tin foil, cans"
+1/21/20,Vari Hall and Lucas Hall,Recycling in Landfill,Plastic Film,0.1,0.1,Grocery bags
+1/21/20,Vari Hall and Lucas Hall,Recycling in Landfill,Paper,0.5,4.6,School paper
+1/21/20,Vari Hall and Lucas Hall,Recycling in Landfill,Glass,0.1,0.3,Bottles
+1/21/20,Vari Hall and Lucas Hall,Landfill,Styrofoam,0.1,0.2,
+1/21/20,Vari Hall and Lucas Hall,Landfill,Non-SCU Coffee Cups,0.75,4.8,Starbucks
+1/21/20,Vari Hall and Lucas Hall,Landfill,Other Landfill,1,11.9,Food packaging
+1/21/20,Vari Hall and Lucas Hall,Landfill,Other Landfill,1,14.7,Food packaging
+1/21/20,Vari Hall and Lucas Hall,Landfill,Other Landfill,1,13.2,Food packaging
+3/14/23,Swig,Recycling in Landfill,Aseptic/Tetra-Pak,0,0,1 tetrapak
+3/14/23,Swig,Compost in Landfill,BPI Certified Compostable To-Go Ware,0.7,7.6,benson to go ware
+3/14/23,Swig,Recycling in Landfill,Cardboard,1.0,7.2,boxes
+3/14/23,Swig,Recycling in Landfill,Cardboard,0.3,3.1,boxes
+3/14/23,Swig,Recycling in Landfill,Electronic & Universal Waste,0.0,0,"2 vapes, 1 breaker"
+3/14/23,Swig,Recycling in Landfill,Film Plastic,0.5,2.4,plastic bags
+3/14/23,Swig,Compost in Landfill,Food/Organic Waste,0.5,30.7,produce
+3/14/23,Swig,Recycling in Landfill,Glass,0.3,21.3,wine bottles
+3/14/23,Swig,Recycling in Landfill,Metal & Aluminum,0.5,3.4,beer cans
+3/14/23,Swig,Landfill,Misc. Landfill,1.0,9.2,food soiled non compostable containers
+3/14/23,Swig,Landfill,Misc. Landfill,1.0,35.1,chip bags
+3/14/23,Swig,Landfill,Misc. Landfill,0.5,5.9,gloves
+3/14/23,Swig,Compost in Landfill,Napkins/Paper Towels,0.3,7.1,paper towels
+3/14/23,Swig,Recycling in Landfill,Paper,1,2.1,paper bags
+3/14/23,Swig,Recycling in Landfill,Paper,0.5,3.7,paper bags
+3/14/23,Swig,Recycling in Landfill,Paperboard,1,6.8,food packaging
+3/14/23,Swig,Recycling in Landfill,Plastics #1-7,1,7.9,water bottles
+3/14/23,Swig,Recycling in Landfill,Plastics #1-7,1,6.4,plastic bottles; plastic food containers
+3/14/23,Swig,Recycling in Landfill,Plastics #1-7,1,4.9,bottles
+3/14/23,Swig,Reusables in Landfill,Reusables,0.25,4.9,clothing
+3/14/23,Swig,Landfill,Styrofoam,0,0,5 pieces of styrofoam
+3/14/23,Swig,Recycling in Landfill,Terracycle,0,0,1 britta filter
