@@ -4,3 +4,4 @@ plost
 folium
 matplotlib
 streamlit_folium
+seaborn
