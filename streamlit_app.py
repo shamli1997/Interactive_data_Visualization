@@ -165,7 +165,7 @@ def draw_missclassification_line_chart(year):
         plt.fill_between(stream_data['Building'], stream_data['Weight'], alpha=0.3, color=color)
 
     # Set the chart title and labels
-    plt.title(f"Missclassification in {year}")
+    plt.title(f"Misclassification in {year}")
     plt.xlabel('Building')
     plt.ylabel('Weight')
 
@@ -325,7 +325,7 @@ def get_area_chart(year):
     grouped_data.plot(kind="area", stacked=True, ax=ax, color=base_colors)
 
     # Set chart title and axis labels
-    ax.set_title(f"Distribution of Waste Streams Across Buildings at Santa Clara University - {year}")
+    ax.set_title(f"Misclassification of Waste Streams Across Buildings at Santa Clara University - {year}")
     ax.set_xlabel("Year")
     ax.set_ylabel("Weight (lbs)")
 
@@ -378,7 +378,7 @@ if selected_year and selected_building:
        
             
 
-st.title(f'Missclassification of waste in year {selected_year}')
+st.title(f'Misclassification of waste in year {selected_year}')
             # Draw the missclassification line chart
 # draw_missclassification_line_chart(selected_year)
 get_area_chart(selected_year)
