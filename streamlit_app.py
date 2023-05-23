@@ -118,7 +118,7 @@ for feature in choropleth.geojson.data['features']:
     if weight == 'No Data':
         feature['properties']['Weight'] = 'No Data'
         feature['properties']['style'] = {'fillColor': color_map.rgb_hex_str(0)}
-st.header("Waste Analysis Santa Clara University")
+st.header("Unveiling Waste Patterns at Santa Clara University")
 
 
 # Calculate classification and missclassification
